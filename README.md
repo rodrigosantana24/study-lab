@@ -13,3 +13,10 @@
 - Estudando os assuntos: Java, Spring Boot, SQL, API REST
 
 </details>
+
+<details>
+<summary>Dia de estudo de hoje - 31/01/2026</summary>
+
+- Estudando os assuntos: O que foi feito hoje: Projeto PetCare com Java e Spring Boot.
+
+</details>
