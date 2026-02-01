@@ -11,3 +11,10 @@
 - Estudando os assuntos: Projeto PetCare com Java e Spring Boot.
 
 </details>
+
+<details>
+<summary>Dia de estudo de hoje - 01/02/2026</summary>
+
+- Estudando os assuntos: Java, Spring Boot, SQL, Projeto PetCare, Arquitetura MVC
+
+</details>
