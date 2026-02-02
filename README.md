@@ -25,3 +25,10 @@
 - Estudando os assuntos: Projeto PetCare, Algoritmos LeetCode
 
 </details>
+
+<details>
+<summary>Dia de estudo de hoje - 02/02/2026</summary>
+
+- Estudando os assuntos: Práticas de programação em java e LeetCode
+
+</details>
