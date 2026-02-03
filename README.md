@@ -32,3 +32,10 @@
 - Estudando os assuntos: Práticas de programação em java e LeetCode
 
 </details>
+
+<details>
+<summary>Dia de estudo de hoje - 03/02/2026</summary>
+
+- Estudando os assuntos: Lógica de programação em java e LeetCode
+
+</details>
