@@ -46,3 +46,10 @@
 - Estudando os assuntos: Revisão de Ontem (dia 03/02)
 
 </details>
+
+<details>
+<summary>Dia de estudo de hoje - 04/02/2026</summary>
+
+- Estudando os assuntos: LeetCode
+
+</details>
