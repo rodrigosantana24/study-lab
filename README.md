@@ -60,3 +60,10 @@
 - Estudando os assuntos: Spring Boot, API REST
 
 </details>
+
+<details>
+<summary>Dia de estudo de hoje - 06/02/2026</summary>
+
+- Estudando os assuntos: Spring Boot, API REST
+
+</details>
