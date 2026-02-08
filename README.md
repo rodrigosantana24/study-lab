@@ -74,3 +74,10 @@
 - Estudando os assuntos: Java
 
 </details>
+
+<details>
+<summary>Dia de estudo de hoje - 08/02/2026</summary>
+
+- Estudando os assuntos: Java
+
+</details>
