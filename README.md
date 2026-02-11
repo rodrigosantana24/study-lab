@@ -88,3 +88,10 @@
 - Estudando os assuntos: SQL
 
 </details>
+
+<details>
+<summary>Dia de estudo de hoje - 11/02/2026</summary>
+
+- Estudando os assuntos: Java e Spring Boot
+
+</details>
