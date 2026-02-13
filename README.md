@@ -95,3 +95,10 @@
 - Estudando os assuntos: Java e Spring Boot
 
 </details>
+
+<details>
+<summary>Dia de estudo de hoje - 13/02/2026</summary>
+
+- Estudando os assuntos: Organização dos estudos
+
+</details>
